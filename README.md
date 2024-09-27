@@ -1,3 +1,3 @@
-# stretwreter
+# School Management System 
 
 adfsdfs
