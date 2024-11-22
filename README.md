@@ -1,5 +1,5 @@
 # School Management System 
-    
+     
 The School Management System project, developed using Java, is designed to streamline and enhance the administrative functions of educational institutions. It serves as an integrated platform for managing various aspects of school operations, including student registration, staff management, course administration, and record-keeping. 
   
 This project aims to provide a comprehensive understanding of software development, focusing on object-oriented programming principles in Java.
